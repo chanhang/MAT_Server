@@ -1,0 +1,6 @@
+@MAT_HostAddress = http://localhost:5083
+
+GET {{MAT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
